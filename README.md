@@ -4,5 +4,5 @@ An Google Maps application for draw routes with polylines and keep navigation pr
 
 # Retrofit
 This project also includes retrofit instance configuraion for call a maps service related to Direction API. Such services have been 
-setting with origin and destination point for draw route and markers.
+setting with origin and destination points for draw route and markers.
 
